@@ -1,0 +1,11 @@
+{
+	"bell": {
+		"category": "master",
+		"sounds": [
+			{
+				"name": "bell",
+				"stream": false
+			}
+		]
+	}
+}
